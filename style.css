@@ -10,6 +10,8 @@ body{
 }
 #buttons 
 {
+    outline:none;
+    cursor:pointer;
     color:whitesmoke;
     margin-left: 5%;
     margin-top: 20px;
@@ -46,6 +48,8 @@ rect {
     fill: red;
 }
 button{
+    cursor:pointer;
+    outline:none;
     font-family: 'Spartan', sans-serif;
     background-color: black;
     color:whitesmoke;
